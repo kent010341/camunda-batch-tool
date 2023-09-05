@@ -1,0 +1,23 @@
+{
+  "name": "camunda-batch-tool",
+  "version": "1.0.0",
+  "description": "Batch calling API that can only be executed once at a time, such as complete task.",
+  "main": "index.js",
+  "dependencies": {
+    "@ngify/http": "^1.5.3",
+    "rxjs": "^7.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kent010341/camunda-batch-tool.git"
+  },
+  "author": "kent010341",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kent010341/camunda-batch-tool/issues"
+  },
+  "homepage": "https://github.com/kent010341/camunda-batch-tool#readme"
+}
