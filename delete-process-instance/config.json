@@ -1,0 +1,10 @@
+{
+  "scheme": "http",
+  "host": "127.0.0.1",
+  "port": 8390,
+  "baseUri": "/engine-rest",
+  "includedCondition": {
+    "unfinished": true
+  },
+  "excludedCondition": {}
+}
